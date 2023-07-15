@@ -22,7 +22,6 @@ Two state-of-the-art deep learning models are employed for skin cancer classific
 
 3. Model Evaluation: Evaluate the trained models using appropriate metrics and validation and test sets. Compare the performance of InceptionV3 and ResNet in terms of their ability to accurately classify skin lesions.
 
-4. Model Deployment: Once the models are trained and evaluated, deploy the preferred model, InceptionV3 or ResNet, in a suitable environment for real-time inference, such as a web application or API.
 
 ## Project Structure
 
